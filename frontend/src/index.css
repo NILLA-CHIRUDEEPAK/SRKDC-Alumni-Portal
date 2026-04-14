@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-color: #020617; /* This is the slate-950 color manually */
+  margin: 0;
+  color: white;
+}
